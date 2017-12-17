@@ -7,7 +7,7 @@ echo "--------------------------------------------------------------------------
 echo
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    Z     INDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -25,7 +25,7 @@ apt install ruby -y
 apt install git -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    Z     INDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -34,7 +34,7 @@ apt install perl -y
 apt install nmap -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZINDIA   Channel  "             
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -44,7 +44,7 @@ apt install jq -y
 apt install macchanger -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    z   INDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -54,7 +54,7 @@ apt install tar -y
 apt install zip -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    Z     NDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -63,7 +63,7 @@ apt install tor -y
 apt install wget -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    z     INDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
@@ -72,7 +72,7 @@ apt install openssl
 apt install bmon -y
 
 echo  "#####################################"
-echo   "  SUBSCRIBE    TECHZ    VIRAL     INDIA      "               
+echo   "  SUBSCRIBE    TECHZ    z  INDIA      "               
  echo   " FOR TECH &  ETHICAL HACKING VIDEOS "                                                                    
 echo   "####################################"
 
